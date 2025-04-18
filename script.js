@@ -1,13 +1,13 @@
 const certificadosPorAño = {
   "2023": [
-    { nombre: "Juan Pérez", archivo: "certificados/2023/juan_perez.pdf" },
-    { nombre: "Ana Gómez", archivo: "certificados/2023/ana_gomez.pdf" }
+    { nombre: "BURBANO MUÑOZ DEILY YASBETH", archivo: "certificados/2023/BURBANO MUÑOZ DEILY YASBETH.pdf" },
+    { nombre: "GALINDEZ FREIRE SANTIAGO", archivo: "certificados/2023/GALINDEZ FREIRE SANTIAGO.pdf" }
   ],
   "2024": [
-    { nombre: "Luis Martínez", archivo: "certificados/2024/luis_martinez.pdf" }
+    { nombre: "QUINAYAS GUAMANGA LAURA ISABEL", archivo: "certificados/2024/QUINAYAS GUAMANGA LAURA ISABEL.pdf" }
   ],
   "2025": [
-    { nombre: "María Rodríguez", archivo: "certificados/2025/maria_rodriguez.pdf" }
+    { nombre: "SANTACRUZ DIAGO MAUREN ELIANA", archivo: "certificados/2025/SANTACRUZ DIAGO MAUREN ELIANA.pdf" }
   ],
   "2026": []
 };
