@@ -1,7 +1,7 @@
 const certificadosPorAño = {
   "2023": [
-    { nombre: "Juan Pérez", archivo: "./certificados/2023/juan_perez.pdf" },
-    { nombre: "Luis Gómez", archivo: "./certificados/2023/luis_gomez.pdf" }
+    { nombre: "BURBANO MUÑOZ DEILY YASBETH", archivo: "./certificados/2023/BURBANO_MUÑOZ_DEILY_YASBETH.pdf" },
+    { nombre: "GALINDEZ FREIRE SANTIAGO", archivo: "./certificados/2023/GALINDEZ_FREIRE_SANTIAGO.pdf" }
   ],
   "2024": [
     { nombre: "Luis Martínez", archivo: "./certificados/2024/luis_martinez.pdf" }
