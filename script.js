@@ -4,10 +4,10 @@ const certificadosPorAño = {
     { nombre: "GALINDEZ FREIRE SANTIAGO", archivo: "./certificados/2023/GALINDEZ_FREIRE_SANTIAGO.pdf" }
   ],
   "2024": [
-    { nombre: "Luis Martínez", archivo: "./certificados/2024/luis_martinez.pdf" }
+    { nombre: "QUINAYAS GUAMANGA LAURA ISABEL", archivo: "./certificados/2024/QUINAYAS_GUAMANGA_LAURA_ISABEL.pdf" }
   ],
   "2025": [
-    { nombre: "María Rodríguez", archivo: "./certificados/2025/maria_rodriguez.pdf" }
+    { nombre: "SANTACRUZ DIAGO MAUREN ELIANA", archivo: "./certificados/2025/SANTACRUZ_DIAGO_MAUREN_ELIANA.pdf" }
   ],
   "2026": [] // Puedes añadir más estudiantes aquí
 };
