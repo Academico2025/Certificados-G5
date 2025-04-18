@@ -1,4 +1,4 @@
-const certificadosPorAño = {
+const CertificadosPorAño = {
   "2023": [
     { nombre: "BURBANO MUÑOZ DEILY YASBETH", archivo: "Certificados/2023/BURBANO_MUÑOZ_DEILY_YASBETH.pdf" },
     { nombre: "GALINDEZ FREIRE SANTIAGO", archivo: "Certificados/2023/GALINDEZ_FREIRE_SANTIAGO.pdf" }
@@ -13,8 +13,8 @@ const certificadosPorAño = {
 };
 
 function showYear(year) {
-  const container = document.getElementById("certificados-container");
-  const certificados = certificadosPorAño[year];
+  const container = document.getElementById("Certificados-container");
+  const Certificados = CertificadosPorAño[year];
 
   if (certificados.length === 0) {
     container.innerHTML = `<p>No hay certificados disponibles para el año ${year}.</p>`;
@@ -22,9 +22,9 @@ function showYear(year) {
   }
 
   let html = `<h3>Certificados del año ${year}</h3><ul>`;
-  certificados.forEach(cert => {
+  Certificados.forEach(cert => {
     html += `
-      <li class="certificado">
+      <li class="Certificado">
         📄 <a href="${cert.archivo}" target="_blank">${cert.nombre}</a>
       </li>`;
   });
