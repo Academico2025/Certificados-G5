@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descarga de Certificados de Grado Quinto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <!-- Espacio para el logo de la Institución Educativa -->
+            <img src="logo_IEA.png" alt="Logo IE" id="logo-img">
+        </div>
+        <div class="ie-info">
+            <!-- Espacio para datos de la Institución Educativa -->
+            <h1>Institución Educativa Agrícola San Alfonso</h1>
+	    <p>Sede San Alfonso</p>
+            <p>NIT: 8170002334-8</p>
+	    <p>CODIGO DANE 219075000636</p>
+	    <p>Resolución de Aprobación Nº 0481 de Abril de 2006</p>
+            <p>San Alfonso Balboa, Cauca - Colombia</p>
+	    <p>© - YMR<p>
+        
+</div>
+    </header>
+    <main>
+<a href="https://saberwebmastersolutions.on.drv.tw/WebMasterSolutions/index.htm" target="_blank">
+                <button class="external-link">Visita WebMaster Solutions</button>
+            </a>
+        <h2>Descarga de Certificados de Grado Quinto</h2>
+        <div class="search-container">
+            <label for="id-number">Número de Identificación:</label>
+            <input type="text" id="id-number" placeholder="Ingrese número de identificación">
+            <button onclick="searchCertificate()">Buscar</button>
+        </div>
+        <div class="year-selector">
+            <label for="year">Seleccione el año:</label>
+            <select id="year" onchange="loadCertificates()">
+                <option value="2023">2023</option>
+                <option value="2024">2024</option>
+                <option value="2025">2025</option>
+                <option value="2026">2026</option>
+                <option value="2027">2027</option>
+                <option value="2028">2028</option>
+            </select>
+        </div>
+        <div id="certificate-list">
+            <!-- Lista de certificados se generará dinámicamente -->
+        </div>
+    </main>
+    <script src="script.js"></script>
