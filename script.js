@@ -5,8 +5,14 @@ const certificates = {
         { id: "987654321", name: "***********", file: "certificados/2023/cert_2023_987654321.pdf" }
     ],
     2024: [
-        { id: "123456789", name: "Juan Pérez", file: "certificados/2024/cert_2024_123456789.pdf" },
-        { id: "987654321", name: "María Gómez", file: "certificados/2024/cert_2024_987654321.pdf" }
+        { id: "123456789", name: "Juan Pérez", file: "certificados/2024/YEVELYN_VALENTINA_CASTILLO_NOGUERA.pdf" },
+        { id: "987654321", name: "María Gómez", file: "certificados/2024/DANYELY_ESTEFANIA_DOMINGUEZ_ORDOÑEZ.pdf" },
+	{ id: "987654321", name: "María Gómez", file: "certificados/2024/MAIRA_JULIANA_IBARRA_CRIOLLO.pdf" },
+ 	{ id: "987654321", name: "María Gómez", file: "certificados/2024/EMMANUEL_SANTIAGO_PAPAMIJA_ORDOÑEZ" },
+	{ id: "987654321", name: "María Gómez", file: "certificados/2024/JUAN_DAVID_RODRIGUEZ_NARVAEZ.pdf" },
+ 	{ id: "987654321", name: "María Gómez", file: "certificados/2024/JHOSTYN_ALEJANDRO_RODRIGUEZ_NOGUERA.pdf" },
+ 	{ id: "987654321", name: "María Gómez", file: "certificados/2024/MAICOL_ESTIBEN_TELLO_MOSQUERA.pdf" },
+ 	{ id: "987654321", name: "María Gómez", file: "certificados/2024/JOSE_MANUEL_GÓMEZ_LARA.pdf" },
     ],
     2025: [
         { id: "1059362653", name: "BURBANO MUÑOZ DEILY YASBETH", file:"certificados/2025/BURBANO_MUÑOZ_DEILY_YASBETH.pdf" },
